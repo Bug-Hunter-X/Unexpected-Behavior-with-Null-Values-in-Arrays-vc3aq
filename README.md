@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in PHP related to handling null values within arrays. The `bug.php` file showcases the problematic code, while `bugSolution.php` provides a corrected version.  The core issue lies in PHP's loose typing; functions may not explicitly check for null values resulting in unexpected behavior or errors.
